@@ -1,0 +1,1 @@
+Generic Email Service Nuget Package.
